@@ -4,20 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h3>GoDaddy & GH-Pages</h3>
+      <p>A Deployment Guide 🚀</p>
+      <p>✨ Let's get this site deployed! ✨</p>
     </div>
   );
 }
